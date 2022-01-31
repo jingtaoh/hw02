@@ -1,3 +1,4 @@
 build
 GNUmakefile
 .DS_Store
+.idea
